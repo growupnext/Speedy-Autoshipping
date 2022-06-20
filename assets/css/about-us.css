@@ -1,0 +1,102 @@
+/* ===========================  */
+
+
+/* Second section satrts here  */
+
+
+/* ===========================  */
+
+.second-about {
+    padding: var(--section-padding);
+}
+
+.second-about>h2 {
+    text-align: center;
+}
+
+.second-about>p {
+    margin: 2% 0;
+}
+
+.second-about-grid-1 {
+    background-color: var(--section-background);
+    padding: var(--section-padding);
+    border-radius: var(--global-border-radius);
+    border: 1px solid var(--light-grey);
+    box-shadow: rgb(0 0 0 / 5%) 0px 6px 24px 0px, rgb(0 0 0 / 8%) 0px 0px 0px 1px;
+    transition: all 0.3s ease-in-out;
+}
+
+.second-about-grid-1:hover {
+    background-color: var(--white);
+}
+
+.second-about-grid-1-img {
+    height: 60px;
+    animation: myrotate 1s ease-in-out;
+}
+
+@keyframes myrotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.second-about-grid-1-content {
+    text-align: center;
+}
+
+.second-about-grid-1-content>h3 {
+    margin: 5% 0;
+}
+
+
+/* ===========================  */
+
+
+/* third section satrts here  */
+
+
+/* ===========================  */
+
+.third-about {
+    padding: var(--section-padding);
+    padding-bottom: 0;
+}
+
+.third-about>h2 {
+    text-align: center;
+}
+
+.third-about-grid {
+    margin: 5% 0;
+    grid-gap: 5%;
+}
+
+.third-about-grid-1 {
+    border: 1px solid black;
+    border-radius: var(--global-border-radius);
+    grid-template-columns: 30% 1fr;
+    grid-gap: 2%;
+}
+
+.third-about-grid-1-img {
+    background-color: var(--dark-primary-color);
+    border-radius: var(--global-border-radius);
+}
+
+.third-about-grid-1-img>img {
+    height: 55px;
+}
+
+.third-about-grid-1-content {
+    padding: 2% 0% 2% 2%;
+    border-radius: var(--global-border-radius);
+}
+
+.third-about-grid-1-content>p {
+    margin: 4% 0
+}

@@ -1,0 +1,156 @@
+input {
+    color: var(--white);
+    padding: 0 10px;
+}
+
+textarea {
+    color: var(--white);
+    padding: 5px 10px;
+}
+
+
+/*  */
+
+
+/*  */
+
+
+/*  */
+
+.second-contactus {
+    padding: var(--section-padding);
+    background-color: var(--white);
+}
+
+.second-contactus-form {
+    border-radius: var(--global-border-radius);
+    background-color: var(--section-background);
+    padding: var(--section-padding);
+}
+
+.second-contactus-form-left {
+    color: var(--dark-grey) !important;
+}
+
+.second-contactus-form-left>h2 {
+    line-height: 2;
+    color: var(--dark-primary-color);
+}
+
+.second-contactus-form-left>p {
+    margin: 2% 0;
+}
+
+.second-contactus-form-left-box {
+    border-radius: var(--global-border-radius);
+    grid-template-columns: 20% 1fr;
+    background-color: var(--white);
+    margin: 4% 0;
+}
+
+.second-contactus-form-left-box-1 {
+    padding: var(--section-padding);
+    border-top-left-radius: var(--global-border-radius);
+    border-bottom-left-radius: var(--global-border-radius);
+    /* background-color: var(--light-grey); */
+    background-color: #ccc;
+}
+
+.second-contactus-form-left-box-1>ion-icon {
+    font-size: 25px;
+    color: var(--dark-primary-color);
+}
+
+.second-contactus-form-left-box-2 {
+    padding: 5% 2%;
+}
+
+.second-contactus-form-left-box-2>a {
+    font-size: 20px;
+    color: var(--dark-primary-color);
+}
+
+.second-contactus-form-right {
+    background-color: var(--dark-primary-color);
+    padding: var(--section-padding);
+    border-radius: var(--global-border-radius);
+}
+
+.second-contactus-form>form {
+    color: white;
+}
+
+.second-contactus-form-right>form>h3 {
+    color: vaR(--white);
+}
+
+.second-contactus-input {
+    margin: 2% 0;
+}
+
+.second-contactus-input>label {
+    margin-bottom: 4px;
+    color: #fff;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 500;
+}
+
+.second-contactus-input>input {
+    width: 100%;
+    background-color: #132b47;
+    -webkit-transition: all 200ms ease;
+    transition: all 200ms ease;
+    font-size: 18px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.second-contactus-input>textarea {
+    width: 100%;
+    max-width: 100%;
+    height: 100px;
+    background-color: #132b47;
+    -webkit-transition: all 200ms ease;
+    transition: all 200ms ease;
+    font-size: 18px;
+    border-radius: 5px;
+    max-height: 80px;
+}
+
+.submit-btn {
+    background-color: var(--primary-pink);
+    width: 100%;
+    height: 45px;
+    font-size: 18px;
+    color: var(--white);
+    border-radius: 5px;
+}
+
+.second-contactus-input>input:hover {
+    border: 2px solid var(--primary-pink);
+}
+
+.second-contactus-input>textarea:hover {
+    border: 2px solid var(--primary-pink);
+}
+
+
+/*  */
+
+
+/*  */
+
+
+/*  */
+
+.third-contactus {
+    padding: var(--section-padding);
+    padding-top: 0;
+}
+
+.third-contactus>iframe {
+    width: 100%;
+    height: 400px;
+    border-radius: var(--global-border-radius);
+}

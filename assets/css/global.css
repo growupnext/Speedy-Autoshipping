@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    /* font-family: 'Source Serif Pro', serif; */
+    font-family: 'Genos', sans-serif;
+    list-style-type: none;
+}
+
+
+/* rootes */
+
+ :root {
+    --light-grey: #c0cccc;
+    --dark-grey: #505050;
+    --white: #fff;
+    --black: #000;
+    /* --text-font: 'Source Serif Pro', Sans-serif, Helvetica; */
+    --heading-font: 'Roboto Slab', serif;
+    --side-padding: 0 5%;
+    --text-font: 'Genos', sans-serif;
+    /* --heading-font: 'Genos', sans-serif; */
+    --section-padding: 5%;
+    --light-blue: #0065ff;
+    --primary-color: #0065ff;
+    --primary-pink: #e76464;
+    --section-background: #cde9f9;
+    --dark-primary-color: #091e42;
+    --primary-linear: linear-gradient(#091e42, #0050c7, #091e42);
+    --primary-hover-color: #73757a;
+    --global-border-radius: 14px;
+}
+
+input {
+    outline: none;
+    border: none;
+}
+
+span {
+    font-family: 'Roboto Slab', serif;
+}

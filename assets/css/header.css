@@ -1,0 +1,91 @@
+/* ===========================  */
+
+
+/* Strip over header section here  */
+
+
+/* ===========================  */
+
+.header-strip {
+    padding: var(--side-padding);
+    padding-top: 0.6%;
+    padding-bottom: 0.6%;
+}
+
+.header-strip>marquee>span {
+    color: var(--primary-pink);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.header-strip>ul {
+    gap: 50px;
+}
+
+.header-strip>ul>li {
+    list-style: none;
+}
+
+.header-strip>ul>li>a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--white);
+    background-color: var(--primary-pink);
+    padding: 6px 20px;
+    font-size: 20px;
+    font-family: var(--heading-font);
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.header-strip>ul>li>a>ion-icon {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+
+/* ===========================  */
+
+
+/* Main header section here  */
+
+
+/* ===========================  */
+
+.header {
+    padding: var(--side-padding);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-position: unset;
+    /* background-color: var(--dark-primary-color); */
+    color: var(--white);
+}
+
+.header>a>img {
+    height: 50px;
+}
+
+
+/* .header-nav {} */
+
+.nav-list {
+    gap: 30px;
+}
+
+.nav-list-item {
+    font-weight: 500;
+    color: var(--white);
+}
+
+.nav-list-item:hover {
+    color: var(--black);
+}
+
+.nav-list-item>a {
+    color: var(--white);
+}
+
+.nav-list-item>a:hover {
+    color: var(--black);
+}

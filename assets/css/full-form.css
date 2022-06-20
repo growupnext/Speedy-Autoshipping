@@ -1,0 +1,152 @@
+span {
+    color: var(--primary-pink);
+}
+
+input {
+    outline: none;
+    color: var(--white);
+    border: none;
+}
+
+
+/* ===========================  */
+
+
+/* Second section here  */
+
+
+/* ===========================  */
+
+.second-contact {
+    margin-top: -5%;
+    padding: 0 15%;
+    padding-bottom: 5%;
+}
+
+.second-contact-form {
+    background-color: var(--dark-primary-color);
+    padding: var(--section-padding);
+    border-radius: var(--global-border-radius);
+}
+
+.second-contact-form>form {
+    color: white;
+}
+
+.second-contact-input {
+    margin: 2% 0;
+}
+
+.second-contact-input>label {
+    margin-bottom: 4px;
+    color: #fff;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 500;
+}
+
+.second-contact-input>input {
+    width: 100%;
+    background-color: #132b47;
+    -webkit-transition: all 200ms ease;
+    transition: all 200ms ease;
+    font-size: 18px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.transport-type>label {
+    margin-bottom: 5%;
+}
+
+.transport-type>input {
+    margin: 2% 1%;
+    margin-bottom: 0;
+}
+
+.transport-type>input:nth-child(even) {
+    margin-left: 5%;
+}
+
+.second-contact-grid {
+    padding: 5% 0;
+}
+
+.second-contact-input>select {
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #132b47;
+    -webkit-transition: all 200ms ease;
+    transition: all 200ms ease;
+    color: var(--white);
+}
+
+.submit-btn {
+    background-color: var(--primary-pink);
+    width: 100%;
+    height: 45px;
+    font-size: 18px;
+    color: var(--white);
+    border-radius: 5px;
+}
+
+.second-contact-input>input:hover {
+    border: 2px solid var(--primary-pink);
+}
+
+.second-contact-input>select:hover {
+    border: 2px solid var(--primary-pink);
+}
+
+
+/* ===========================  */
+
+
+/* Contact us third section here  */
+
+
+/* ===========================  */
+
+.third-contact {
+    padding: var(--section-padding);
+    background-color: var(--section-background);
+}
+
+.third-contact-grid {
+    padding: 2% 0;
+}
+
+.third-contact>h2 {
+    text-align: center;
+}
+
+.third-contact-grid-1-1 {
+    width: 100%;
+    grid-template-columns: 10% 1fr;
+}
+
+.third-contact-grid-1-1>ion-icon {
+    font-size: 30px;
+}
+
+@media screen and (max-width:500px) {
+    .contact-first-home-content>h2 {
+        font-size: 25px;
+        letter-spacing: 2px;
+    }
+    .contact-first-home-content>p {
+        font-size: 18px;
+        line-height: 1.2;
+    }
+    .second-contact {
+        margin-top: 0;
+        padding: 5%;
+    }
+    .second-contact-grid {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+    .third-contact-grid {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+}
