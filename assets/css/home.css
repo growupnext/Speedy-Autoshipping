@@ -381,7 +381,7 @@ span {
         border-radius: 4px;
     }
     .header-nav {
-        display: none;
+        display: none !important;
     }
     .first-home {
         height: 100%;
@@ -407,7 +407,7 @@ span {
         width: 20%;
     }
     .second-home>div {
-        display: unset;
+        display: unset !important;
     }
     .second-home-box {
         margin-top: 5%;
@@ -416,20 +416,20 @@ span {
         height: 100px;
     }
     .third-home-grid {
-        display: unset;
+        display: unset!important;
     }
     .third-home-grid-box {
         margin-bottom: 4%;
     }
     .fourth-home {
-        display: unset;
+        display: unset !important;
     }
     .fifth-home-grid {
-        display: unset;
+        display: unset !important;
     }
     .seventh-home-grid {
         grid-gap: 0;
-        display: unset;
+        display: unset !important;
     }
     .seventh-home-grid-1 {
         margin-bottom: 4%;
