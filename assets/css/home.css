@@ -375,37 +375,6 @@ span {
 @media screen and (max-width:809px) {}
 
 @media screen and (max-width:500px) {
-    .header-strip>ul>li>a {
-        padding: 3px 0px;
-        text-align: center;
-        border-radius: 4px;
-    }
-    .header-nav {
-        display: none !important;
-    }
-    .first-home {
-        height: 100%;
-    }
-    .first-home-article>h2 {
-        font-size: 25px;
-        letter-spacing: 2px;
-    }
-    .first-home-article>p {
-        font-size: 18px;
-        line-height: 1.2;
-    }
-    .first-home-form-contents>input {
-        height: 35px;
-        width: 65%;
-        font-size: 16px;
-        margin-bottom: 4%;
-    }
-    .first-home-form-contents>label {
-        margin-left: 0;
-    }
-    .first-home-form-contents>button {
-        width: 20%;
-    }
     .second-home>div {
         display: unset !important;
     }
@@ -434,7 +403,7 @@ span {
     .seventh-home-grid-1 {
         margin-bottom: 4%;
     }
-    .footer {
+    .footer.grid {
         display: block;
     }
     .fourth-home-grid-left {

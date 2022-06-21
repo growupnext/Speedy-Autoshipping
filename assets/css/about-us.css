@@ -100,3 +100,23 @@
 .third-about-grid-1-content>p {
     margin: 4% 0
 }
+
+@media screen and (max-width: 500px) {
+    .second-about-grid.grid-3 {
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 0;
+    }
+    .second-about-grid-1 {
+        margin-top: 2%;
+    }
+    .third-about>h2 {
+        margin-top: 5%;
+    }
+    .third-about-grid.grid-2 {
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 0;
+    }
+    .third-about-grid-1 {
+        margin-top: 2%;
+    }
+}

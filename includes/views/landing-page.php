@@ -10,6 +10,128 @@
 
 
      /* ===========================  */
+
+     /* landing page css here */
+
+     .first-home-mask {
+         height: 100%;
+         width: 100%;
+     }
+
+     .first-home-color-mask {
+         height: 100%;
+         width: 100%;
+         background-color: #091e42b5;
+     }
+
+     .first-home-content {
+         position: absolute;
+         top: 30%;
+         padding: 0 5%;
+         color: #fff;
+         width: 100%;
+     }
+
+     .first-home-content>h2 {
+         text-align: center;
+         font-size: 55px;
+         letter-spacing: 2px;
+         font-family: var(--heading-font);
+     }
+
+     .first-home-content>p {
+         margin: 2% 0;
+         text-align: center;
+         font-size: 20px;
+         font-weight: 400;
+         line-height: 1.4;
+         letter-spacing: 0.6px;
+     }
+
+     .first-home-form {
+         margin-top: 4%;
+         padding: 2% 5%;
+         backdrop-filter: blur(10px);
+         color: var(--white);
+         border-radius: 14px;
+     }
+
+     .first-home-form-contents>label:nth-child(1) {
+         margin-left: 0;
+     }
+
+     .first-home-form-contents>label {
+         margin-left: 3%;
+     }
+
+     .first-home-form-contents>input {
+         height: 45px;
+         width: 30%;
+         border-radius: 6px;
+         background-color: var(--light-grey);
+         border: 1px solid var(--primary-color);
+         font-size: 18px;
+         padding: 0 8px;
+     }
+
+     .first-home-form-contents>button {
+         width: 10%;
+         height: 45px;
+         border: none;
+         background-color: var(--primary-pink);
+     }
+
+     @media screen and (max-width:500px) {
+         .first-home {
+             height: 115vh !important;
+         }
+
+         .first-home-content h2 {
+             text-align: center;
+             font-size: 25px;
+             letter-spacing: 2px;
+             font-family: var(--heading-font);
+         }
+
+         .first-home-form-contents>input {
+             height: 35px;
+             width: 65%;
+             font-size: 16px;
+             margin-bottom: 4%;
+         }
+
+         .header-strip>ul>li>a {
+             padding: 3px 0px;
+             text-align: center;
+             border-radius: 4px;
+         }
+
+         .header-nav {
+             display: none !important;
+         }
+
+         .first-home {
+             height: 100%;
+         }
+
+         .first-home-article h2 {
+             font-size: 25px;
+             letter-spacing: 2px;
+         }
+
+         .first-home-article>p {
+             font-size: 18px;
+             line-height: 1.2;
+         }
+
+         .first-home-form-contents>label {
+             margin-left: 0;
+         }
+
+         .first-home-form-contents>button {
+             width: 20%;
+         }
+     }
  </style>
 
  <section class="first-home background-property">
