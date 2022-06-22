@@ -34,6 +34,7 @@
     $homepath = "./index.php";
     $contactpath = "./contact-us.php";
     $aboutpath = "./about-us.php";
+    $servicepath = "./service.php";
     $heading = "  Get a Free Auto Transport Quote Today";
     $paragraph = " We provide The Best Car Shipping Services in United STtates. Check Our Auto Shipping Services
                     We Serve. Our car shipping advisors are available by calling +1 833-233-4447

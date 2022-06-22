@@ -26,6 +26,7 @@
     $homepath = "./index.php";
     $contactpath = "./contact-us.php";
     $aboutpath = "./about-us.php";
+    $servicepath = "./service.php";
     $heading = "Our team is always waiting to help you.";
     $paragraph = "Rapid Auto Shipping blogs provide advice on how to plan your car transport.Our car shipping blogs will show you how to ship a car in the United States and will assist our customers in shipping their vehicles from one location to another.";
     include('./includes/views/landing-page.php');

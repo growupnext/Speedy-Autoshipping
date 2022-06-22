@@ -32,6 +32,7 @@
     $homepath = "./index.php";
     $contactpath = "./contact-us.php";
     $aboutpath = "./about-us.php";
+    $servicepath = "./service.php";
     $heading = "Best Auto Shipping Company";
     $paragraph = " We will help you to ship your vehicle on time at an affordable price. You can ship your vehicle without any hustle and bustle, only just by contacting us. We will provide you best representatives to help you out if you have any questions regarding auto shipping. ";
     include('./includes/views/landing-page.php'); ?>

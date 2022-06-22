@@ -143,7 +143,7 @@
                      <ul class="nav-list flex">
                          <li class="nav-list-item text"><a href="<?php echo "$homepath"; ?>">Home</a></li>
                          <li class="nav-list-item text"><a href="#">Blogs</a></li>
-                         <li class="nav-list-item text"><a href="#">Service</a></li>
+                         <li class="nav-list-item text"><a href="<?php echo "$servicepath"; ?>">Service</a></li>
                          <li class="nav-list-item text"><a href="<?php echo "$contactpath"; ?>">Contact</a></li>
                          <li class="nav-list-item text"><a href="<?php echo "$aboutpath"; ?>">About Us</a></li>
                      </ul>
