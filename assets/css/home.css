@@ -275,7 +275,7 @@ span {
 
 .seventh-home-grid-1 {
     padding: var(--section-padding);
-    background-color: #fff;
+    background-color: var(--white);
     border-radius: 14px;
 }
 

@@ -153,7 +153,7 @@
             Additional features while <span>shipping Your vehicle</span>
         </h2>
         <div class="third-service-box">
-            <h3 class="sub-heading">FULLY CUSTOMIZABLE AND PERSONAL SERVICE</h3>
+            <h3>FULLY CUSTOMIZABLE AND PERSONAL SERVICE</h3>
             <p>Each one of our customers is unique and this is why we offer a fully customizable door-to-door car transport services. Our diligent shipping advisors will work with you to ensure it meets your needs. They will be available to guide you through the entire door-to-door car shipping process, so you never need to feel you're on your own. We understand the importance of providing a personalized service and aim to exceed your expectations every time.</p>
         </div>
         <div class="third-service-box">
