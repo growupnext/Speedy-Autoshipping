@@ -1,8 +1,10 @@
-<?php include('./includes/head.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/css/utility.css">
     <link rel="stylesheet" href="./assets/css/global.css">
     <link rel="stylesheet" href="./assets/css/header.css">
@@ -11,6 +13,7 @@
     <!-- ===========================  -->
     <!-- jquery link here -->
     <!-- ===========================  -->
+    <?php include('./includes/head.php'); ?>
     <style>
         .first-home {
             background-image: url('./assets/images/service-bg.jpg');
@@ -191,6 +194,127 @@
             <h3 class="sub-heading">COMPLETE COVERAGE BY INSURANCE
             </h3>
             <p>Insurance is required, especially if you're exporting a high-value vehicle. Most of the time, the insurance that is included in the contained auto shipment cost is insufficient. Auto carriers are required by law to carry property damage insurance coverage. The built-in coverage limits, on the other hand, may not provide further protection for uncommon and pricey vehicles. As a result, we provide gap insurance, which is a supplement to normal insurance that provides more comprehensive coverage based on the car's worth. Every quote we provide for enclosed car shipment includes insurance. During your door-to-door automobile delivery service, your vehicle is completely insured, giving you complete peace of mind. You won't have to pay anything more because insurance is included in our rates.</p>
+        </div>
+    </section>
+    <!-- ===========================  -->
+    <!--Fourth Section here -->
+    <!-- ===========================  -->
+    <section class="fourth-service">
+        <h2 class="main-heading">Why we are best in <span>shipping</span> ?</h2>
+        <div class="fourth-service-grid grid grid-3">
+            <div class="fourth-service-grid-1">
+                <div class="fourth-service-grid-1-img">
+                    <img src="./assets/images/professional-driver.jpg" alt="proffessional drivers">
+                </div>
+                <div class="fourth-service-grid-1-content">
+                    <h3 class="sub-heading">WE ARE PROFESSIONAL</h3>
+                    <p class="text">
+                        We are trustworthy professionals who recognise the value of understanding our industry, exceeding expectations, and avoiding politics along the way. Teamwork, honesty, mutual respect, and accountability are the keys to our success. In all we do, we adhere to the highest ethical standards. We earn our clients' trust and share long-term success by treating our coworkers and customers fairly, honestly, and with respect.Every day, everywhere, we are committed to an incident-free workplace. We are regularly working to reduce the environmental impact of our operations.
+                    </p>
+                </div>
+            </div>
+            <div class="fourth-service-grid-1">
+                <div class="fourth-service-grid-1-img">
+                    <img src="./assets/images/home-bg.jpg" alt="proffessional drivers">
+                </div>
+                <div class="fourth-service-grid-1-content">
+                    <h3 class="sub-heading">WE ARE COUNTRY WIDE</h3>
+                    <p class="text">
+                        We build partnerships that are open and honest.With our employees, customers, drivers, and other business partners, we strive for relationships built on honesty, perseverance, mutual trust, and integrity.Our words, behaviours, decisions, and actions all come together to form a unified whole. We don't make promises we won't be able to keep.It's crucial to keep track of commitments at Rapid Auto Shipping. It all comes down to the fundamentals of business. If you say you'll do something, follow through.
+                    </p>
+                </div>
+            </div>
+            <div class="fourth-service-grid-1">
+                <div class="fourth-service-grid-1-img">
+                    <img src="./assets/images/original.jfif" alt="proffessional drivers">
+                </div>
+                <div class="fourth-service-grid-1-content">
+                    <h3 class="sub-heading">WE ARE RELIABLE!</h3>
+                    <p class="text">
+                        When you adore your vehicle, getting behind the wheel and hitting the open road is the finest way to get it from point A to point B. When you can't see your vehicle until it arrives at its destination, you'll need a dependable transportation firm to deliver it safely and swiftly. We at Rapid Auto Shipping has given great auto transport solutions to hundreds of thousands of consumers, and our 99+ percent customer satisfaction rate reflects our dedication to providing top-notch service.affecting or extending throughout all parts of a States
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ===========================  -->
+    <!--Fifth Section here -->
+    <!-- ===========================  -->
+    <section class="fifth-service">
+        <div class="fifth-service-grid grid">
+            <div class="fifth-service-grid-left">
+                <h2 class="main-heading">SPEEDY AUTOSHIPPING</h2>
+                <p class="text">Don't just take our word for it though! Check out the thousands of five star reviews we've earned by striving to be the best in the auto transportation industry.We will love to get your reviews too .</p>
+                <div class="fifth-service-grid-left-icons flex flex-center">
+                    <ion-icon name="logo-facebook"></ion-icon>
+                    <ion-icon name="logo-instagram"></ion-icon>
+                    <ion-icon name="logo-twitter"></ion-icon>
+                    <ion-icon name="logo-linkedin"></ion-icon>
+                </div>
+                <div class="fifth-service-grid-right-contact">
+                    Contact Us : <button class="basic-button"><a href="tel:+1-833-233-4447" class="anchor">+1-833-233-4447</a></button>
+                </div>
+            </div>
+            <div class="fifth-service-grid-right">
+                <h4 class="sub-heading">
+                    More Services
+                </h4>
+                <li><a href="#">Door to door,</a></li>
+                <li><a href="#"> Open transport,</a></li>
+                <li><a href="#"> By Rail,</a></li>
+                <li><a href="#"> Auto Auction shipping,</a></li>
+                <li><a href="#"> Motor Cycle Shipping,</a></li>
+                <li><a href="#"> Boat Shipping,</a></li>
+                <li><a href="#"> Enclosed Transport,</a></li>
+                <li><a href="#"> Military Shipping,</a></li>
+                <li><a href="#"> Heavy Equipment,</a></li>
+                <li><a href="#"> Snowbird Shipping,</a></li>
+                <li><a href="#"> Classic car Shipping,</a></li>
+                <li><a href="#"> Lowboy equipment shipping,</a></li>
+                <li><a href="#"> Multi Car Shipping,</a></li>
+                <li><a href="#"> Hauling Over-sized Loads,</a></li>
+                <li><a href="#"> Customized Container Shipping,</a></li>
+                <li><a href="#"> Shipping Cars From State to State,</a></li>
+                <li><a href="#"> Door to Door Auto Transport,</a></li>
+                <li><a href="#"> Snowbirds Transport,</a></li>
+                <li><a href="#"> Motorcycle Transport,</a></li>
+                <li><a href="#"> Heavy Haul Trucking,</a></li>
+                <li><a href="#"> Heavy Hauling Truck Transporting Large Cargo,</a></li>
+                <li><a href="#"> Fifth Wheel Transportation,</a></li>
+                <li><a href="#"> Car Transport Services,</a></li>
+                <li><a href="#"> RV Transport,</a></li>
+                <li><a href="#"> Food Truck Shipping Service,</a></li>
+                <li><a href="#"> Transporting Cars for Dealerships,</a></li>
+                <li><a href="#"> Tractor Transport,</a></li>
+                <li><a href="#"> Farm Equipment Transport,</a></li>
+                <li><a href="#"> Construction Equipment Transport,</a></li>
+                <li><a href="#"> Shipping Buses,</a></li>
+                <li><a href="#"> Line Haul Transportation,</a></li>
+                <li><a href="#"> Hauling Cargo Vans,</a></li>
+                <li><a href="#"> Yacht Transport,</a></li>
+                <li><a href="#"> Car Shipping Services,</a></li>
+                <li><a href="#"> International Boat Transport,</a></li>
+                <li><a href="#"> Ambulance shipping,</a></li>
+                <li><a href="#"> International Heavy Equipment Shipping,</a></li>
+                <li><a href="#"> Hauling ISUZU NPR Trucks,</a></li>
+                <li><a href="#"> Transporting Komatsu Equipment,</a></li>
+                <li><a href="#"> Transporting Case Trucks,</a></li>
+                <li><a href="#"> Hauling New Holland Equipment,</a></li>
+                <li><a href="#"> Forklift Transportation Company,</a></li>
+                <li><a href="#"> International Car Shipping,</a></li>
+                <li><a href="#"> International Motorcycle Shipping,</a></li>
+                <li><a href="#"> Caterpillar Equipment Transport,</a></li>
+                <li><a href="#"> Containerized Freight Hauling,</a></li>
+                <li><a href="#"> Car Transport In The Continental United States,</a></li>
+                <li><a href="#"> Auto Transport Carriers Car Transport Quotes,</a></li>
+                <li><a href="#"> Car shipping companies,</a></li>
+                <li><a href="#"> Continental Car Shipping,</a></li>
+                <li><a href="#"> Cost To Ship A Car,</a></li>
+                <li><a href="#"> Hauling Trucks,</a></li>
+                <li><a href="#"> Vehicle Transport Services,</a></li>
+                <li><a href="#"> International Yacht Shipping,</a></li>
+                <li><a href="#"> Dealership Auto Transport,</a></li>
+            </div>
         </div>
     </section>
     <!-- ===========================  -->
