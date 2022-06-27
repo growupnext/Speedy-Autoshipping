@@ -4,7 +4,6 @@
     box-sizing: border-box;
     outline: none;
     text-decoration: none;
-    /* font-family: 'Source Serif Pro', serif; */
     font-family: 'Genos', sans-serif;
     list-style-type: none;
 }
@@ -38,4 +37,26 @@ input {
 
 span {
     font-family: 'Roboto Slab', serif;
+}
+
+
+/* scroll property */
+
+::-webkit-scrollbar {
+    width: 15px;
+    height: 150px;
+    height: 70px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--section-background);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--primary-pink);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--primary-pink);
 }

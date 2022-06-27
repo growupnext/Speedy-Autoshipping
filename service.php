@@ -88,7 +88,7 @@
                     <img src="./assets/images/services/lowboy-icon.png" alt="services we offer">
                 </div>
                 <div class="second-service-grid-1-content">
-                    <h3 class="sub-heading">Lomboy shipping</h3>
+                    <h3 class="sub-heading">Lowboy shipping</h3>
                     <p>Although Shipping an automobile via rail isn't the most frequent technique, some dealerships and manufacturers prefer it when they have a large number of cars to deliver to a single place. Shipping by rail is generally less expensive than shipping by truck or any other means, especially since fuel prices fluctuate.</p>
                 </div>
             </div>
@@ -197,6 +197,88 @@
         </div>
     </section>
     <!-- ===========================  -->
+    <!--Fifth Section here -->
+    <!-- ===========================  -->
+    <section class="fifth-service">
+        <div class="fifth-service-grid grid">
+            <div class="fifth-service-grid-left">
+                <h2 class="main-heading">SPEEDY AUTOSHIPPING</h2>
+                <p class="text">Don't just take our word for it though! Check out the thousands of five star reviews we've earned by striving to be the best in the auto transportation industry.We will love to get your reviews too .</p>
+                <div class="fifth-service-grid-left-icons flex flex-center">
+                    <ion-icon name="logo-facebook"></ion-icon>
+                    <ion-icon name="logo-instagram"></ion-icon>
+                    <ion-icon name="logo-twitter"></ion-icon>
+                    <ion-icon name="logo-linkedin"></ion-icon>
+                </div>
+                <div class="fifth-service-grid-right-contact">
+                    Contact Us : <button class="basic-button"><a href="tel:+1-833-233-4447" class="anchor">+1-833-233-4447</a></button>
+                </div>
+            </div>
+            <div class="fifth-service-grid-right">
+                <h4 class="sub-heading">
+                    More Services
+                </h4>
+                <ul>
+                    <li><a href="#">Door to door,</a></li>
+                    <li><a href="#"> Open transport,</a></li>
+                    <li><a href="#"> By Rail,</a></li>
+                    <li><a href="#"> Auto Auction shipping,</a></li>
+                    <li><a href="#"> Motor Cycle Shipping,</a></li>
+                    <li><a href="#"> Boat Shipping,</a></li>
+                    <li><a href="#"> Enclosed Transport,</a></li>
+                    <li><a href="#"> Military Shipping,</a></li>
+                    <li><a href="#"> Heavy Equipment,</a></li>
+                    <li><a href="#"> Snowbird Shipping,</a></li>
+                    <li><a href="#"> Classic car Shipping,</a></li>
+                    <li><a href="#"> Lowboy equipment shipping,</a></li>
+                    <li><a href="#"> Multi Car Shipping,</a></li>
+                    <li><a href="#"> Hauling Over-sized Loads,</a></li>
+                    <li><a href="#"> Customized Container Shipping,</a></li>
+                    <li><a href="#"> Shipping Cars From State to State,</a></li>
+                    <li><a href="#"> Door to Door Auto Transport,</a></li>
+                    <li><a href="#"> Snowbirds Transport,</a></li>
+                    <li><a href="#"> Motorcycle Transport,</a></li>
+                    <li><a href="#"> Heavy Haul Trucking,</a></li>
+                    <li><a href="#"> Heavy Hauling Truck Transporting Large Cargo,</a></li>
+                    <li><a href="#"> Fifth Wheel Transportation,</a></li>
+                    <li><a href="#"> Car Transport Services,</a></li>
+                    <li><a href="#"> RV Transport,</a></li>
+                    <li><a href="#"> Food Truck Shipping Service,</a></li>
+                    <li><a href="#"> Transporting Cars for Dealerships,</a></li>
+                    <li><a href="#"> Tractor Transport,</a></li>
+                    <li><a href="#"> Farm Equipment Transport,</a></li>
+                    <li><a href="#"> Construction Equipment Transport,</a></li>
+                    <li><a href="#"> Shipping Buses,</a></li>
+                    <li><a href="#"> Line Haul Transportation,</a></li>
+                    <li><a href="#"> Hauling Cargo Vans,</a></li>
+                    <li><a href="#"> Yacht Transport,</a></li>
+                    <li><a href="#"> Car Shipping Services,</a></li>
+                    <li><a href="#"> International Boat Transport,</a></li>
+                    <li><a href="#"> Ambulance shipping,</a></li>
+                    <li><a href="#"> International Heavy Equipment Shipping,</a></li>
+                    <li><a href="#"> Hauling ISUZU NPR Trucks,</a></li>
+                    <li><a href="#"> Transporting Komatsu Equipment,</a></li>
+                    <li><a href="#"> Transporting Case Trucks,</a></li>
+                    <li><a href="#"> Hauling New Holland Equipment,</a></li>
+                    <li><a href="#"> Forklift Transportation Company,</a></li>
+                    <li><a href="#"> International Car Shipping,</a></li>
+                    <li><a href="#"> International Motorcycle Shipping,</a></li>
+                    <li><a href="#"> Caterpillar Equipment Transport,</a></li>
+                    <li><a href="#"> Containerized Freight Hauling,</a></li>
+                    <li><a href="#"> Car Transport In The Continental United States,</a></li>
+                    <li><a href="#"> Auto Transport Carriers Car Transport Quotes,</a></li>
+                    <li><a href="#"> Car shipping companies,</a></li>
+                    <li><a href="#"> Continental Car Shipping,</a></li>
+                    <li><a href="#"> Cost To Ship A Car,</a></li>
+                    <li><a href="#"> Hauling Trucks,</a></li>
+                    <li><a href="#"> Vehicle Transport Services,</a></li>
+                    <li><a href="#"> International Yacht Shipping,</a></li>
+                    <li><a href="#"> Dealership Auto Transport,</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!-- ===========================  -->
     <!--Fourth Section here -->
     <!-- ===========================  -->
     <section class="fourth-service">
@@ -238,83 +320,61 @@
         </div>
     </section>
     <!-- ===========================  -->
-    <!--Fifth Section here -->
+    <!--Sixth Section here -->
     <!-- ===========================  -->
-    <section class="fifth-service">
-        <div class="fifth-service-grid grid">
-            <div class="fifth-service-grid-left">
-                <h2 class="main-heading">SPEEDY AUTOSHIPPING</h2>
-                <p class="text">Don't just take our word for it though! Check out the thousands of five star reviews we've earned by striving to be the best in the auto transportation industry.We will love to get your reviews too .</p>
-                <div class="fifth-service-grid-left-icons flex flex-center">
-                    <ion-icon name="logo-facebook"></ion-icon>
-                    <ion-icon name="logo-instagram"></ion-icon>
-                    <ion-icon name="logo-twitter"></ion-icon>
-                    <ion-icon name="logo-linkedin"></ion-icon>
+    <section class="sixth-service">
+        <div class="sixth-service-grid-container">
+            <h2 class="main-heading">
+                We’ll accelerate your journey from
+                <br> <span>Origin to Destination</span>
+            </h2>
+            <div class="sixth-service-grid grid">
+                <div class="sixth-service-grid-1 sixth-service-grid-1-circle grid-center">
+                    ORIGIN
                 </div>
-                <div class="fifth-service-grid-right-contact">
-                    Contact Us : <button class="basic-button"><a href="tel:+1-833-233-4447" class="anchor">+1-833-233-4447</a></button>
+                <div class="sixth-service-grid-1 sixth-service-grid-1-square grid-center">
+                    <div class="sixth-service-grid-1-img">
+                        <img src="./assets/images/logos/our-expert.png" alt="description of service">
+                    </div>
+                    <div class="sixth-service-grid-1-content">
+                        <h4>PICKING YOUR VEHICLE</h4>
+                    </div>
                 </div>
+                <div class="sixth-service-grid-1 sixth-service-grid-1-icon grid-center">
+                    <ion-icon name="arrow-forward-circle-sharp"></ion-icon>
+                </div>
+                <div class="sixth-service-grid-1 sixth-service-grid-1-square grid-center">
+                    <div class="sixth-service-grid-1-img">
+                        <img src="./assets/images/logos/our-expert.png" alt="description of service">
+                    </div>
+                    <div class="sixth-service-grid-1-content">
+                        <h4>SHIPPING YOUR VEHICLE</h4>
+                    </div>
+                </div>
+                <div class="sixth-service-grid-1 sixth-service-grid-1-icon grid-center">
+                    <ion-icon name="arrow-forward-circle-sharp"></ion-icon>
+                </div>
+                <div class="sixth-service-grid-1 sixth-service-grid-1-square grid-center">
+                    <div class="sixth-service-grid-1-img">
+                        <img src="./assets/images/logos/our-expert.png" alt="description of service">
+                    </div>
+                    <div class="sixth-service-grid-1-content">
+                        <h4>DELIVERING YOUR VEHICLE</h4>
+                    </div>
+                </div>
+                <div class="sixth-service-grid-1 sixth-service-grid-1-icon grid-center">
+                    <ion-icon name="arrow-forward-circle-sharp"></ion-icon>
+                </div>
+                <div class="sixth-service-grid-1 sixth-service-grid-1-circle  grid-center">
+                    DESTINATION
+                </div>
+
             </div>
-            <div class="fifth-service-grid-right">
-                <h4 class="sub-heading">
-                    More Services
-                </h4>
-                <li><a href="#">Door to door,</a></li>
-                <li><a href="#"> Open transport,</a></li>
-                <li><a href="#"> By Rail,</a></li>
-                <li><a href="#"> Auto Auction shipping,</a></li>
-                <li><a href="#"> Motor Cycle Shipping,</a></li>
-                <li><a href="#"> Boat Shipping,</a></li>
-                <li><a href="#"> Enclosed Transport,</a></li>
-                <li><a href="#"> Military Shipping,</a></li>
-                <li><a href="#"> Heavy Equipment,</a></li>
-                <li><a href="#"> Snowbird Shipping,</a></li>
-                <li><a href="#"> Classic car Shipping,</a></li>
-                <li><a href="#"> Lowboy equipment shipping,</a></li>
-                <li><a href="#"> Multi Car Shipping,</a></li>
-                <li><a href="#"> Hauling Over-sized Loads,</a></li>
-                <li><a href="#"> Customized Container Shipping,</a></li>
-                <li><a href="#"> Shipping Cars From State to State,</a></li>
-                <li><a href="#"> Door to Door Auto Transport,</a></li>
-                <li><a href="#"> Snowbirds Transport,</a></li>
-                <li><a href="#"> Motorcycle Transport,</a></li>
-                <li><a href="#"> Heavy Haul Trucking,</a></li>
-                <li><a href="#"> Heavy Hauling Truck Transporting Large Cargo,</a></li>
-                <li><a href="#"> Fifth Wheel Transportation,</a></li>
-                <li><a href="#"> Car Transport Services,</a></li>
-                <li><a href="#"> RV Transport,</a></li>
-                <li><a href="#"> Food Truck Shipping Service,</a></li>
-                <li><a href="#"> Transporting Cars for Dealerships,</a></li>
-                <li><a href="#"> Tractor Transport,</a></li>
-                <li><a href="#"> Farm Equipment Transport,</a></li>
-                <li><a href="#"> Construction Equipment Transport,</a></li>
-                <li><a href="#"> Shipping Buses,</a></li>
-                <li><a href="#"> Line Haul Transportation,</a></li>
-                <li><a href="#"> Hauling Cargo Vans,</a></li>
-                <li><a href="#"> Yacht Transport,</a></li>
-                <li><a href="#"> Car Shipping Services,</a></li>
-                <li><a href="#"> International Boat Transport,</a></li>
-                <li><a href="#"> Ambulance shipping,</a></li>
-                <li><a href="#"> International Heavy Equipment Shipping,</a></li>
-                <li><a href="#"> Hauling ISUZU NPR Trucks,</a></li>
-                <li><a href="#"> Transporting Komatsu Equipment,</a></li>
-                <li><a href="#"> Transporting Case Trucks,</a></li>
-                <li><a href="#"> Hauling New Holland Equipment,</a></li>
-                <li><a href="#"> Forklift Transportation Company,</a></li>
-                <li><a href="#"> International Car Shipping,</a></li>
-                <li><a href="#"> International Motorcycle Shipping,</a></li>
-                <li><a href="#"> Caterpillar Equipment Transport,</a></li>
-                <li><a href="#"> Containerized Freight Hauling,</a></li>
-                <li><a href="#"> Car Transport In The Continental United States,</a></li>
-                <li><a href="#"> Auto Transport Carriers Car Transport Quotes,</a></li>
-                <li><a href="#"> Car shipping companies,</a></li>
-                <li><a href="#"> Continental Car Shipping,</a></li>
-                <li><a href="#"> Cost To Ship A Car,</a></li>
-                <li><a href="#"> Hauling Trucks,</a></li>
-                <li><a href="#"> Vehicle Transport Services,</a></li>
-                <li><a href="#"> International Yacht Shipping,</a></li>
-                <li><a href="#"> Dealership Auto Transport,</a></li>
-            </div>
+            <h3 class="text">
+                Speedy Auto Shippping Ensure you to provide best quality Experts.<br>
+                If you would prefer to speak to one of our experienced Transport Specialists, feel free to give us a call at
+                <br><button class="basic-button"><a class="anchor" href="tel:+1-833-233-4447">+1-833-233-4447</a></button>
+            </h3>
         </div>
     </section>
     <!-- ===========================  -->
@@ -325,3 +385,8 @@
 </body>
 
 </html>
+
+<?php
+
+
+?>
