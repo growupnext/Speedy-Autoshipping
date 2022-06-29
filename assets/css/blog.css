@@ -1,0 +1,56 @@
+/* ===========================  */
+
+
+/*  first section here */
+
+
+/* ===========================  */
+
+.first-blog {
+    padding: var(--section-padding);
+}
+
+.first-blog>h2 {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.first-blog-grid {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.first-blog-grid-1 {
+    border: 1px solid var(--dark-primary-color);
+    padding: 8% 5%;
+    margin: 10%;
+    position: relative;
+    padding-bottom: 5%;
+    border-radius: var(--global-border-radius);
+}
+
+.first-blog-grid-1-img {
+    position: absolute;
+    top: -13%;
+    height: 125px;
+    left: -10%;
+    width: 125px;
+    border-radius: var(--global-border-radius);
+}
+
+.first-blog-grid-1-img>img {
+    height: 80px;
+    border-radius: var(--global-border-radius);
+}
+
+.first-blog-grid-1-content>h3 {
+    color: var(--dark-primary-color);
+    margin-bottom: 4%;
+}
+
+.first-blog-grid-1-content>button {
+    margin-top: 5%;
+}
+
+.first-blog-grid-1-content>button>a {
+    font-size: 14px;
+}

@@ -6,6 +6,7 @@
     text-decoration: none;
     font-family: 'Genos', sans-serif;
     list-style-type: none;
+    font-size: 20px;
 }
 
 
@@ -44,8 +45,7 @@ span {
 
 ::-webkit-scrollbar {
     width: 15px;
-    height: 150px;
-    height: 70px;
+    height: 2em;
 }
 
 ::-webkit-scrollbar-track {

@@ -61,7 +61,7 @@
     height: 35px;
     border-radius: 6px;
     width: max-content;
-    border: 1px solid #fff;
+    border: 1px solid var(--white);
     transition: all 0.3s linear;
     cursor: pointer;
 }

@@ -33,6 +33,7 @@
     $homepath = "./index.php";
     $contactpath = "./contact-us.php";
     $aboutpath = "./about-us.php";
+    $blogpage = "./blog.php";
     $servicepath = "./service.php";
     $heading = "Best Auto Shipping Company";
     $paragraph = " Rapid Auto Shipping is one of the best auto shipping companies in the United States. Rapid's founders are seasoned, successful businessmen with a goal to revolutionize the auto shipping sector. We learned how unreliable the car shipping industry can be during the course of multiple cross-country moves ";

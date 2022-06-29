@@ -36,6 +36,7 @@
     $homepath = "./index.php";
     $contactpath = "./contact-us.php";
     $aboutpath = "./about-us.php";
+    $blogpage = "./blog.php";
     $servicepath = "./service.php";
     $heading = "OUR AUTO TRANSPORT SERVICES LIST";
     $paragraph = "Are you looking for a trusted auto transport service provider? We arrange safe and reliable vehicle transportation by assigning each shipment to one of our pre-qualified and reputable auto transport carriers. We only represent active and insured carriers and we continually monitor our carriers’ performance, insurance and licenses to protect our customers’ interests. ";
@@ -345,7 +346,7 @@
                 </div>
                 <div class="sixth-service-grid-1 sixth-service-grid-1-square grid-center">
                     <div class="sixth-service-grid-1-img">
-                        <img src="./assets/images/logos/our-expert.png" alt="description of service">
+                        <img src="./assets/images/services/car-picking.png" alt="description of service">
                     </div>
                     <div class="sixth-service-grid-1-content">
                         <h4>SHIPPING YOUR VEHICLE</h4>
@@ -356,7 +357,7 @@
                 </div>
                 <div class="sixth-service-grid-1 sixth-service-grid-1-square grid-center">
                     <div class="sixth-service-grid-1-img">
-                        <img src="./assets/images/logos/our-expert.png" alt="description of service">
+                        <img src="./assets/images/services/car-shipping.png" alt="description of service">
                     </div>
                     <div class="sixth-service-grid-1-content">
                         <h4>DELIVERING YOUR VEHICLE</h4>
@@ -385,8 +386,3 @@
 </body>
 
 </html>
-
-<?php
-
-
-?>
