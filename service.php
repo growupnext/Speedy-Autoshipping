@@ -46,7 +46,7 @@
     <!--Second Section here -->
     <!-- ===========================  -->
     <section class="second-service">
-        <h2 class="main-heading">All Services we offer</h2>
+        <h2 class="main-heading">All <span class="main-heading"> Services</span> we offer</h2>
         <div class="second-service-grid grid grid-3">
             <div class="second-service-grid-1">
                 <div class="second-service-grid-1-img grid-center">
@@ -154,7 +154,7 @@
     <!-- ===========================  -->
     <section class="third-service ">
         <h2 class="main-heading">
-            Additional features while <span>shipping Your vehicle</span>
+            Additional features while <span class="main-heading">shipping Your vehicle</span>
         </h2>
         <div class="third-service-box">
             <h3>FULLY CUSTOMIZABLE AND PERSONAL SERVICE</h3>
@@ -283,7 +283,7 @@
     <!--Fourth Section here -->
     <!-- ===========================  -->
     <section class="fourth-service">
-        <h2 class="main-heading">Why we are best in <span>shipping</span> ?</h2>
+        <h2 class="main-heading">Why we are best in <span class="main-heading">shipping</span> ?</h2>
         <div class="fourth-service-grid grid grid-3">
             <div class="fourth-service-grid-1">
                 <div class="fourth-service-grid-1-img">
@@ -327,7 +327,8 @@
         <div class="sixth-service-grid-container">
             <h2 class="main-heading">
                 We’ll accelerate your journey from
-                <br> <span>Origin to Destination</span>
+                <br>
+                <span class="main-heading">Origin to Destination</span>
             </h2>
             <div class="sixth-service-grid grid">
                 <div class="sixth-service-grid-1 sixth-service-grid-1-circle grid-center">
@@ -377,6 +378,148 @@
                 <br><button class="basic-button"><a class="anchor" href="tel:+1-833-233-4447">+1-833-233-4447</a></button>
             </h3>
         </div>
+    </section>
+    <!-- ===========================  -->
+    <!--Seven Section here -->
+    <!-- ===========================  -->
+    <section class="seventh-service">
+        <h2 class="main-heading">
+            Hear it from our <span class="main-heading">Customer</span>
+        </h2>
+        <div class="seventh-section-grid grid grid-3">
+            <div class="seventh-section-grid-1">
+                <div class="seventh-section-grid-1-img-1">
+                    <ion-icon name="bookmarks-sharp"></ion-icon>
+                </div>
+                <div class="seventh-section-grid-1-content">
+                    <p class="text">
+                        We've been very pleased with our experience working with Toptal. Their team was incredibly helpful in helping us find the perfect developer for our project. The work was stellar, the communication was excellent and we couldn't have been happier with the overall experience. We're excited to work with Toptal for more projects in the future!
+                    </p>
+                </div>
+                <div class="seventh-section-grid-1-img-2 grid">
+                    <div class="seventh-section-grid-1-img-2-img">
+                        <img src="./assets/images/customers/reviwer-1.jpg" alt="Best Customer">
+                    </div>
+                    <div class="seventh-section-grid-1-img-2-content">
+                        <h3>Trandues Adhanus</h3>
+                        <p class="text">Texas - California</p>
+                    </div>
+                </div>
+            </div>
+            <div class="seventh-section-grid-1">
+                <div class="seventh-section-grid-1-img-1">
+                    <ion-icon name="bookmarks-sharp"></ion-icon>
+                </div>
+                <div class="seventh-section-grid-1-content">
+                    <p class="text">
+                        We've been very pleased with our experience working with Toptal. Their team was incredibly helpful in helping us find the perfect developer for our project. The work was stellar, the communication was excellent and we couldn't have been happier with the overall experience. We're excited to work with Toptal for more projects in the future!
+                    </p>
+                </div>
+                <div class="seventh-section-grid-1-img-2 grid">
+                    <div class="seventh-section-grid-1-img-2-img">
+                        <img src="./assets/images/customers/reviwer-2.jpg" alt="Best Customer">
+                    </div>
+                    <div class="seventh-section-grid-1-img-2-content">
+                        <h3>Mark John</h3>
+                        <p class="text">Arizona - Alaska</p>
+                    </div>
+                </div>
+            </div>
+            <div class="seventh-section-grid-1">
+                <div class="seventh-section-grid-1-img-1">
+                    <ion-icon name="bookmarks-sharp"></ion-icon>
+                </div>
+                <div class="seventh-section-grid-1-content">
+                    <p class="text">
+                        We've been very pleased with our experience working with Toptal. Their team was incredibly helpful in helping us find the perfect developer for our project. The work was stellar, the communication was excellent and we couldn't have been happier with the overall experience. We're excited to work with Toptal for more projects in the future!
+                    </p>
+                </div>
+                <div class="seventh-section-grid-1-img-2 grid">
+                    <div class="seventh-section-grid-1-img-2-img">
+                        <img src="./assets/images/customers/reviwer-1.jpg" alt="Best Customer">
+                    </div>
+                    <div class="seventh-section-grid-1-img-2-content">
+                        <h3>Newa Marcua</h3>
+                        <p class="text">Ohio - New Jersey </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ===========================  -->
+    <!--Eight Section here -->
+    <!-- ===========================  -->
+    <section class="eight-service">
+        <h2 class="main-heading">
+            Read our latest <span class="main-heading">Blogs</span> here
+        </h2>
+        <div class="eight-service-parent-grid grid grid-2">
+            <div class="eight-service-parent-grid-left">
+                <div class="eight-service-parent-grid-left-img">
+                    <img src="./assets/images/original.jfif" alt="our latest blogs">
+                </div>
+                <div class="eight-service-parent-grid-left-content">
+                    <h3 class="sub-heading">
+                        Top Auto Shipping Companies Arkansas
+                    </h3>
+                    <p class="text">
+                        When you need to move a vehicle from or to Arkansas, you need to work with a reputable Arkansas auto shipping company. Rapid Auto Shipping has been offering safe and dependable Arkansas auto transport for both individuals and businesses over several years. We have a lot of experience, and one of our specialisations is car delivery to and from Arkansas.
+                    </p>
+                    <p class="sub-heading">By <span>Rapid Auto Shipping</span></p>
+                </div>
+            </div>
+            <div class="eight-service-parent-grid-right grid">
+                <div class="eight-service-parent-grid-right-top grid grid-2">
+                    <div class="eight-service-parent-grid-right-top-1">
+                        <div class="eight-service-parent-grid-right-img">
+                            <img src="./assets/images/contact-us.jpg" alt="our latest blogs">
+                        </div>
+                        <div class="eight-service-parent-grid-left-content">
+                            <h3 class="sub-heading">
+                                Top Auto Shipping Companies Arkansas
+                            </h3>
+                            <p class="text">By <span class="text">Rapid Auto Shipping</span></p>
+                        </div>
+                    </div>
+                    <div class="eight-service-parent-grid-right-top-1">
+                        <div class="eight-service-parent-grid-right-img">
+                            <img src="./assets/images/blog-luxury.jpg" alt="our latest blogs">
+                        </div>
+                        <div class="eight-service-parent-grid-left-content">
+                            <h3 class="sub-heading">
+                                Top Auto Shipping Companies Arkansas
+                            </h3>
+                            <p class="text">By <span class="text">Rapid Auto Shipping</span></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="eight-service-parent-grid-right-top grid grid-2">
+                    <div class="eight-service-parent-grid-right-top-1">
+                        <div class="eight-service-parent-grid-right-img">
+                            <img src="./assets/images/company-building.jpg" alt="our latest blogs">
+                        </div>
+                        <div class="eight-service-parent-grid-left-content">
+                            <h3 class="sub-heading">
+                                Top Auto Shipping Companies Arkansas
+                            </h3>
+                            <p class="text">By <span class="text">Rapid Auto Shipping</span></p>
+                        </div>
+                    </div>
+                    <div class="eight-service-parent-grid-right-top-1">
+                        <div class="eight-service-parent-grid-right-img">
+                            <img src="./assets/images/enclosed-auto-transport.jpg" alt="our latest blogs">
+                        </div>
+                        <div class="eight-service-parent-grid-left-content">
+                            <h3 class="sub-heading">
+                                Top Auto Shipping Companies Arkansas
+                            </h3>
+                            <p class="text">By <span class="text">Rapid Auto Shipping</span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </section>
     <!-- ===========================  -->
     <!--Footer Section here -->
